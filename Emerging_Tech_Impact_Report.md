@@ -100,8 +100,14 @@ This report evaluates the impact of selected emerging technologies and practices
 ### 2. Protection of Farmers' Sensitive Data
 - **Summary**: Reviewed the importance of data encryption and being compliant with data protection regulations to help protect and safeguard farmers' sensitive information.
 - **Action Items**:
-
   - Proceed with integrating AWS for cloud-based data management solutions.
+
+### 3. Cloud Technology Selection for Data Management
+- **Summary**: Confirmed the selection of AWS (Amazon Web Services) for its scalability, security, and compliance features suitable for managing and analyzing agricultural data.
+- **Action Items**:
+  - Proceed with integrating AWS for cloud-based data management solutions.
+
+
 ## Meeting Minutes Conclusion
 - Agreed on the importance of equipping staff with the necessary certifications and skill set to operate drones.
 - Reinforced the commitment to protecting farmers' sensitive data through security and compliance measures.
