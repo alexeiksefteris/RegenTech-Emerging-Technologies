@@ -76,6 +76,36 @@ This report evaluates the impact of selected emerging technologies and practices
 * Adherence to cloud computing regulations and data security standards.
 * Ensuring data integrity and availability across cloud services.
 
+# Meeting Minutes: RegenTech Technology Implementation Discussion
+
+**Date**: 9/04/2024
+**Time**: 3:00 PM
+**Location**: Microsoft Teams
+**Attendees**: Alexei Ksefteris, Iresha Thilakarathne
+
+## Agenda Topics
+
+1. Staff Skill requirements for Drone Operation
+2. Protection of Farmers' Sensitive Data
+3. Cloud Technology Selection for Data Management
+
+## Discussion Summary
+
+### 1. Staff Skill Requirements for Drone Operation
+- **Summary**: Discussed the need for drone piloting skills, technical proficiency, data handling, and the necessary certifications / qualifications for staff to operate pilot drones.
+- **Action Items**:
+  - Develop a training program for drone operation.
+  - Ensure staff obtain required certifications and licenses.
+
+### 2. Protection of Farmers' Sensitive Data
+- **Summary**: Reviewed the importance of data encryption and being compliant with data protection regulations to help protect and safeguard farmers' sensitive information.
+- **Action Items**:
+
+  - Proceed with integrating AWS for cloud-based data management solutions.
+## Meeting Minutes Conclusion
+- Agreed on the importance of equipping staff with the necessary certifications and skill set to operate drones.
+- Reinforced the commitment to protecting farmers' sensitive data through security and compliance measures.
+- Decided on AWS as the preferred cloud platform for its  services that align with RegenTech’s operational needs.
 ## Conclusion
 
 The adoption of these emerging technologies and practices gives RegenTech a significant opportunity to enhance its service offerings, improve operational efficiency, and strengthen its market position. However, it must be taken with careful consideration of legal and regulatory responsibilities. This is essential to ensure a sustainable and compliant implementation. 
