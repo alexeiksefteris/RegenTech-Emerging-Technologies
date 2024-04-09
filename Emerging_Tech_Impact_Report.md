@@ -7,7 +7,7 @@ This report evaluates the impact of selected emerging technologies and practices
 * Allows for real-time monitoring and optimization of crop and soil conditions.
 
 **Impact on RegenTech:**
-* Enhance the planning stream by providing detailed data for farm customization.
+* Enhances the planning stream by providing detailed data for farm customization.
 * Improves automation in irrigation and nutrient distribution, minimizing the wastage of resources.
 
 **Legal and Regulatory Responsibilities**
